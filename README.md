@@ -5,6 +5,7 @@
 * Determine the most relevant variable using Variable Importance feature.
 * Evaluate the prediction model performance and recommendation.
 * Programming Language: R.  
+![](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.PNG) ![](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.PNG) ![](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.PNG)
 [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)
 
 
