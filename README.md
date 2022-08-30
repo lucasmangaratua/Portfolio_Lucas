@@ -32,7 +32,7 @@
 * Programming Language: Python and R.  
   
   
-List of codes:  
+List of codes:
 * Code for Google Play Store scraping for [Bank BTPN](), [Bank Jago](), and [Bank Neo Commerce]().  
 * Code for Twitter scraping for [Bank BTPN](), [Bank Jago](), and [Bank Neo Commerce]().  
 [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)  
