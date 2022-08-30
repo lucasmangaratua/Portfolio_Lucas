@@ -7,13 +7,13 @@
 * Programming Language: R.  
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Tuning Random Forest</td>
+     <td>Random Forest Model Plot</td>
+     <td>Variable Importance Plot</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.PNG" height=480></td>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.PNG" height=480></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.PNG" height=380></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.PNG" height=380></td>
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.PNG" height=480></td>
   </tr>
  </table>  
