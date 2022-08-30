@@ -6,6 +6,7 @@
 * Evaluate the prediction model performance and recommendation.
 * Programming Language: R.  
 <table>
+<center>
   <tr>
     <td>Tuning Random Forest</td>
      <td>Random Forest Model Plot</td>
@@ -16,6 +17,7 @@
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.png" width="100%"></td>
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.png" width="100%"></td>
   </tr>
+  </center>
  </table>  
  
  [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)  
@@ -30,6 +32,20 @@
 * Evaluate the prediction model performance.
 * Business Solution and recommendation for investors.
 * Programming Language: Python and R.  
+<table>
+<center>
+  <tr>
+    <td>Jenius Results</td>
+     <td>Jago Results</td>
+     <td>Neobank Results</td>
+  </tr>
+  <tr>
+    <td><img src="" width="100%"></td>
+    <td><img src="" width="100%"></td>
+    <td><img src="" width="100%"></td>
+  </tr>
+  </center>
+ </table>
   
   
 List of codes:
