@@ -17,6 +17,7 @@
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.PNG" height=400></td>
   </tr>
  </table>  
+ 
  [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)
 
 
