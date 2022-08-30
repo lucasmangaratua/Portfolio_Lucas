@@ -5,6 +5,7 @@
 * Determine the most relevant variable using Variable Importance feature.
 * Evaluate the prediction model performance and recommendation.
 * Programming Language: R.
+[This Project's GitHub Repository]()
 
 
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
@@ -16,6 +17,7 @@
 * Evaluate the prediction model performance.
 * Business Solution and recommendation for investors.
 * Programming Language: Python and R.
+[This Project's GitHub Repository]()
 
 
 ## Project 3: (2022) - "IDX's Stocks and Prices Database"
@@ -24,3 +26,4 @@
 * Data storing to internal storage.
 * Repeat extraction and data storing automaticly using [crontab](https://crontab.guru).
 * Programming Language: Python and SQL.
+[This Project's GitHub Repository]()
