@@ -19,7 +19,7 @@
 
 
 ## Project 3: (2022) - "IDX's Stocks and Prices Database"
-* Main Objective: Create an **Automated, Updated, and Filtered** personal stock price data based.
+* Main Objective: Create an **Automated, Updated, and Filtered** personal stock price database.
 * Data extraction through Yahoo Finance stock price.
 * Data storing to internal storage.
 * Programming Language: Python and SQL.
