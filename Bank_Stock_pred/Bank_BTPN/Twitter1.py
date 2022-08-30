@@ -24,4 +24,4 @@ for i in tweepy.Cursor(api.user_timeline, id="JeniusConnect",tweet_mode=“exten
   retweets.append(i.retweet_count)
 
 df = pd.DataFrame({'tweets':tweets,'likes':likes,'retweets':retweets})
-head(df)
+df.head()
