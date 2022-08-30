@@ -42,9 +42,9 @@
   </tr>
   <tr>
     <td>Decision Tree Plot</td>
-    <td><img src="" width="100%"></td>
-    <td><img src="" width="100%"></td>
-    <td><img src="" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/dt_jenius" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/dt_jago" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/dt_neo" width="100%"></td>
   </tr>
    <tr>
     <td>Random Forest Plot</td>
