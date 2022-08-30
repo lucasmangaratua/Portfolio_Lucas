@@ -1,5 +1,4 @@
 # Portfolio of Lucas Mangaratua
-Projects and Analysis Portfolio
 
 ## Project 1: Undergraduate Thesis (2020) - "Application of Random Forests in Predicting Group Long Term Disability Mortality Rates"
 * **Main Objective: Create a Mortality Rates prediction of [2017 Group Long Term Disability](https://www.soa.org/resources/experience-studies/2017/2017-gltd-recovery-mortality-tree/) using Random Forest Model.**
