@@ -20,7 +20,7 @@
  </table>
 </div>  
  
- [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)  
+* [Project 1](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred) GitHub Repository.  
    
    
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
@@ -65,7 +65,7 @@
 List of codes:
 * Code for Google Play Store scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Play_Store1.py), [Bank Jago](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Jago/Play_Store2.py), and [Bank Neo Commerce](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Neo_Commerce/Play_Store3.py).  
 * Code for Twitter scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Twitter1.py), [Bank Jago](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Jago/Twitter2.py), and [Bank Neo Commerce](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Neo_Commerce/Twitter3.py).  
-[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)  
+* [Project 2](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred) GitHub Repository.  
   
   
 ## Project 3: (2022) - "IDX's Stocks and Prices Database"
@@ -74,4 +74,4 @@ List of codes:
 * Data storing to internal storage.
 * Repeat extraction and data storing automaticly using [crontab](https://crontab.guru).
 * Programming Language: Python and SQL.  
-[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/IDX_database)
+[Project 3](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/IDX_database)  GitHub Repository.
