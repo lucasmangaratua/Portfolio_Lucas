@@ -54,9 +54,9 @@
   </tr>
    <tr>
     <td>RF_Model Variable Importance</td>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/vi_rf_jenius" width="100%"></td>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/vi_rf_jago" width="100%"></td>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/vi_rf_neo" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/vi_rf_jenius" width="80%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/vi_rf_jago" width="80%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Images/vi_rf_neo" width="80%"></td>
   </tr>
  </table>
 </div>
