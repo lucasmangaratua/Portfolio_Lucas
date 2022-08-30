@@ -40,6 +40,19 @@
      <td>Neobank Results</td>
   </tr>
   <tr>
+    <td>Decision Tree Plot</td>
+    <td><img src="" width="100%"></td>
+    <td><img src="" width="100%"></td>
+    <td><img src="" width="100%"></td>
+  </tr>
+   <tr>
+    <td>Random Forest Plot</td>
+    <td><img src="" width="100%"></td>
+    <td><img src="" width="100%"></td>
+    <td><img src="" width="100%"></td>
+  </tr>
+   <tr>
+    <td>RF_Model Variable Importance</td>
     <td><img src="" width="100%"></td>
     <td><img src="" width="100%"></td>
     <td><img src="" width="100%"></td>
