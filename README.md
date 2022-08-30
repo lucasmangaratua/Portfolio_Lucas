@@ -12,8 +12,8 @@
      <td>Variable Importance Plot</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.png" height=200></td>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.png" height=200></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.png" height=250></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.png" height=250></td>
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.png" height=300></td>
   </tr>
  </table>  
