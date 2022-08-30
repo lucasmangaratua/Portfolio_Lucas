@@ -5,6 +5,7 @@
 * Determine the most relevant variable using Variable Importance feature.
 * Evaluate the prediction model performance and recommendation.
 * Programming Language: R.  
+<div align="center">
 <table>
   <tr>
     <td>Tuning Random Forest</td>
@@ -16,7 +17,8 @@
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.png" width="100%"></td>
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.png" width="100%"></td>
   </tr>
- </table>  
+ </table>
+</div>  
  
  [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)  
    
