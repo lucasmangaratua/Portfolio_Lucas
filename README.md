@@ -17,7 +17,7 @@
 * Evaluate the prediction model performance.
 * Business Solution and recommendation for investors.
 * Programming Language: Python and R.  
-[This Project's GitHub Repository]()
+[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)
 
 
 ## Project 3: (2022) - "IDX's Stocks and Prices Database"
