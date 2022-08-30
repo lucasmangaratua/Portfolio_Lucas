@@ -12,12 +12,12 @@
      <td>Variable Importance Plot</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.PNG" height=380></td>
-    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.PNG" height=380></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.PNG" height=300></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.PNG" height=300></td>
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.PNG" height=480></td>
   </tr>
  </table>  
-[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)
+ [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)
 
 
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
