@@ -74,4 +74,4 @@ List of codes:
 * Data storing to internal storage.
 * Repeat extraction and data storing automaticly using [crontab](https://crontab.guru).
 * Programming Language: Python and SQL.  
-[Project 3](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/IDX_database)  GitHub Repository.
+* [Project 3](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/IDX_database)  GitHub Repository.
