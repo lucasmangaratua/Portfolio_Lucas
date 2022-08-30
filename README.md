@@ -12,9 +12,9 @@
      <td>Variable Importance</td>
   </tr>
   <tr>
-    <td><img src="[Users/munthelucas/Downloads/Images/tuning_mtry.png](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.png)" width="100%"></td>
-    <td><img src="[Users/munthelucas/Downloads/Images/tuning_mtry.png]https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.png" width="100%"></td>
-    <td><img src="[Users/munthelucas/Downloads/Images/tuning_mtry.png]https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.png" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.png" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/randomforest.png" width="100%"></td>
+    <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/var_imp.png" width="100%"></td>
   </tr>
  </table>  
  
