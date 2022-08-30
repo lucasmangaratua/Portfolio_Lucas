@@ -26,4 +26,4 @@
 * Data storing to internal storage.
 * Repeat extraction and data storing automaticly using [crontab](https://crontab.guru).
 * Programming Language: Python and SQL.  
-[This Project's GitHub Repository]()
+[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/IDX_database)
