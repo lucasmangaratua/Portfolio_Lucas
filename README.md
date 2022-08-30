@@ -5,6 +5,7 @@ Projects and Analysis Portfolio
 * Create a Mortality Rates prediction of [2017 Group Long Term Disability](https://www.soa.org/resources/experience-studies/2017/2017-gltd-recovery-mortality-tree/) using Random Forest Model.
 * Determine the most relevant variable using Variable Importance feature.
 * Evaluate the prediction model performance and recommendation.
+* Programming Language: 
 
 
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
