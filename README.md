@@ -35,7 +35,8 @@
 <div align="center">
 <table>
   <tr>
-    <td>Jenius Results</td>
+     <td></td>
+     <td>Jenius Results</td>
      <td>Jago Results</td>
      <td>Neobank Results</td>
   </tr>
