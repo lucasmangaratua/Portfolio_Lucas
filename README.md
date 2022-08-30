@@ -9,7 +9,7 @@
   <tr>
     <td>Tuning Random Forest</td>
      <td>Random Forest Model Plot</td>
-     <td>Variable Importance Plot</td>
+     <td>Variable Importance</td>
   </tr>
   <tr>
     <td><img src="https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Mortality_Rates_pred/Images/tuning_mtry.png" width="100%"></td>
@@ -30,6 +30,11 @@
 * Evaluate the prediction model performance.
 * Business Solution and recommendation for investors.
 * Programming Language: Python and R.  
+  
+  
+List of codes:  
+* Code for Google Play Store scraping for [Bank BTPN](), [Bank Jago](), and [Bank Neo Commerce]().  
+* Code for Twitter scraping for [Bank BTPN](), [Bank Jago](), and [Bank Neo Commerce]().  
 [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)  
   
   
