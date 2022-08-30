@@ -22,4 +22,5 @@
 * Main Objective: Create an **Automated, Updated, and Filtered** personal stock price database.
 * Data extraction through Yahoo Finance stock price.
 * Data storing to internal storage.
+* Repeat extraction automaticly using [crontab](https://crontab.guru).
 * Programming Language: Python and SQL.
