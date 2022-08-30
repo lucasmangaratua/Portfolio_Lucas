@@ -33,8 +33,8 @@
   
   
 List of codes:
-* Code for Google Play Store scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Play_Store1.py), [Bank Jago](), and [Bank Neo Commerce]().  
-* Code for Twitter scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Twitter1.py), [Bank Jago](), and [Bank Neo Commerce]().  
+* Code for Google Play Store scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Play_Store1.py), [Bank Jago](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Jago/Play_Store2.py), and [Bank Neo Commerce](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Neo_Commerce/Play_Store3.py).  
+* Code for Twitter scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Twitter1.py), [Bank Jago](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Jago/Twitter2.py), and [Bank Neo Commerce](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Neo_Commerce/Twitter3.py).  
 [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)  
   
   
