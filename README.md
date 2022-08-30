@@ -5,7 +5,7 @@
 * Determine the most relevant variable using Variable Importance feature.
 * Evaluate the prediction model performance and recommendation.
 * Programming Language: R.  
-[This Project's GitHub Repository]()
+[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)
 
 
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
