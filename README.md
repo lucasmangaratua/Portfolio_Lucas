@@ -8,7 +8,7 @@ Projects and Analysis Portfolio
 
 
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
-*  Data scraping through Google Play Store and Twitter Api. Data Extraction through Google Trends, and Yahoo Finance.
+*  Data scraping through Google Play Store and Twitter API. Data extraction through Google Trends, and Yahoo Finance stock price.
 *  Data cleaning, data transformation, and data storing.
 *  Create a Stock prediction using Decision Tree and Random Forest Model.
 *  Determine the most relevant variable using Variable Importance feature.
