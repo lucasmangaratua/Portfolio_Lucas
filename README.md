@@ -1,5 +1,3 @@
-theme: hacker
-
 # Portfolio Lucas Mangaratua
 Projects and Analysis Portfolio
 
