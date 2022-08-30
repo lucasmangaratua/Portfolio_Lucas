@@ -18,9 +18,9 @@
   </tr>
  </table>  
  
- [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)
-
-
+ [This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Mortality_Rates_pred)  
+   
+   
 ## Project 2: Master's Thesis (2022) - "Tree-Based Models for Predicting Digital Bank Stock Valuation Using Multisource Internet Data Approach"
 * **Main Objective: Create a stock prediction of the 3 biggest Digital Bank (Bank BTPN, Bank Jago, and Bank Neo Commerce) using Internet Data.**
 * Data scraping through Google Play Store website and Twitter API. Data extraction through Google Trends, and Yahoo Finance stock price.
@@ -30,9 +30,9 @@
 * Evaluate the prediction model performance.
 * Business Solution and recommendation for investors.
 * Programming Language: Python and R.  
-[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)
-
-
+[This Project's GitHub Repository](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred)  
+  
+  
 ## Project 3: (2022) - "IDX's Stocks and Prices Database"
 * Main Objective: Create an **Automated, Updated, and Filtered** personal stock price database.
 * Data extraction through Yahoo Finance stock price.
