@@ -66,12 +66,3 @@ List of codes:
 * Code for Google Play Store scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Play_Store1.py), [Bank Jago](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Jago/Play_Store2.py), and [Bank Neo Commerce](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Neo_Commerce/Play_Store3.py).  
 * Code for Twitter scraping for [Bank BTPN](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_BTPN/Twitter1.py), [Bank Jago](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Jago/Twitter2.py), and [Bank Neo Commerce](https://github.com/lucasmangaratua/Portfolio_Lucas/blob/main/Bank_Stock_pred/Bank_Neo_Commerce/Twitter3.py).  
 * [Project 2](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/Bank_Stock_pred) GitHub Repository.  
-  
-  
-## Project 3: (2022) - "IDX's Stocks and Prices Database"
-* Main Objective: Create an **Automated, Updated, and Filtered** personal stock price database.
-* Data extraction through Yahoo Finance stock price.
-* Data storing to internal storage.
-* Repeat extraction and data storing automaticly using [crontab](https://crontab.guru).
-* Programming Language: Python and SQL.  
-* [Project 3](https://github.com/lucasmangaratua/Portfolio_Lucas/tree/main/IDX_database)  GitHub Repository.
